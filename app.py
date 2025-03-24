@@ -80,8 +80,8 @@ class ResumeApp:
             "📝 RESUME BUILDER": self.render_builder,
             "📊 DASHBOARD": self.render_dashboard,
             "🎯 JOB SEARCH": self.render_job_search,
-            "💬 FEEDBACK": self.render_feedback_page,
-            "ℹ️ ABOUT": self.render_about
+            "💬 FEEDBACK": self.render_feedback_page
+           
         }
         
         # Initialize dashboard manager
